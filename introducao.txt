@@ -1,0 +1,6 @@
+Este documento foi criado com o objetivo de testar as 
+características do controlador de versoes git.
+
+Vamos ver se funciona bem,
+
+J. E. Castanho
